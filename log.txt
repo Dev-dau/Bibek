@@ -1,0 +1,14 @@
+User Input:
+Which airport data you want to view : 1.Bendigo Airport or 2.Avalon Airport or 3.Both ?
+User choice: 1
+
+Program Output:
+stod
+You have chosen file: Bendigo-Airport-Temperature-Data-2022.csv
+Number of rows: 366
+Number of columns: 2562
+Hottest date of the year is - 2022:12:31 Where maximum temperature is : 38.2
+Coldest date of the year is - 2022:5:30 Where minimum temperature is : 8.4
+Mean temperature for given year is: 20.7071
+Median temperature for the year is: 19.2
+
